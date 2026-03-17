@@ -1,4 +1,4 @@
-# Hi, I'm Walden 👋
+# Hi, I'm Haruki 👋
 
 **Full-stack · Data · AI Engineer with strong system thinking and product sense**
 
